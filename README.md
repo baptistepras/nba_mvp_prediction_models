@@ -47,11 +47,17 @@ All commands should be run **from the project root**.
    ```
 
 Available <model_name> options:
+
 	•	logreg → Logistic Regression
+ 
 	•	rf → Random Forest
+ 
 	•	xgb → XGBoost
+ 
 	•	gb → Gradient Boosting
+ 
 	•	histgb → Histogram-based Gradient Boosting
+ 
 	•	lgbm → LightGBM
 
 4.	**Hyperparameter tuning (optional)**
