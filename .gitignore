@@ -1,0 +1,20 @@
+# Ignore model files
+models/
+
+# Ignore raw and processed datasets
+raw_data/
+processed_data/
+
+# Ignore results folders
+greedy_rfe_results/
+results/
+
+# Python standard ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.DS_Store
