@@ -80,4 +80,4 @@ For the other models, tuning is recommended; you must then change the default pa
 For the other models, these scripts can be used to explore dimensionality reduction and performance improvements.
 
 
-📘 Note: Example commands are included at the top of each script for guidance.
+📘 Note: Example commands are included at the bottom of each script for guidance.
